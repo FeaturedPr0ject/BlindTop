@@ -1,2 +1,3 @@
-# BlindTop
-A website of videos. Make videos and Fun.
+# Internet | BlindTop 💥
+> [!IMPORTANT]
+> README IN BUILDING.
