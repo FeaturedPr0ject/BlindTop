@@ -1,3 +1,3 @@
-# Internet | BlindTop 💥
+# BlindTop 💥
 > [!IMPORTANT]
 > README IN BUILDING.
